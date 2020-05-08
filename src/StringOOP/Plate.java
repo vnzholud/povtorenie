@@ -22,6 +22,8 @@ public class Plate {
         food-=aet;
     }
 
+   // Добавляем метод наполнения тарелки
+
     public void plusePlate(int PlusEatplate){
         food+=PlusEatplate;
 
